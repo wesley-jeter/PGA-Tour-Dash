@@ -17,9 +17,6 @@ st.markdown(
         color: white !important;
     }
 
-    .block-container {
-        padding-top: 1rem;
-    }
     </style>
     """,
     unsafe_allow_html=True
