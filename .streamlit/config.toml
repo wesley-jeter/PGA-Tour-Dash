@@ -1,0 +1,7 @@
+[theme]
+baseFontSize = 20
+textColor = "#000000"
+
+primaryColor = "#000000"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#005a23"
